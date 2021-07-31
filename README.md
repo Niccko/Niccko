@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Niccko/Niccko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niccko&show_icons=true&hide=stars&theme=cobalt)](https://github.com/Niccko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niccko&layout=compact&theme=cobalt)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
